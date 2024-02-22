@@ -24,7 +24,7 @@ Contact Form: Allowing visitors to reach out to me easily.
 
 
 Copy code
-> git clone https://github.com/your-username/portfolio-website.git
+> git clone https://github.com/saswatt23/portfolio.git  
 
 2. Open the index.html file in your web browser.
 ## Usage
